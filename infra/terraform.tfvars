@@ -1,2 +1,2 @@
-resource_group_name = "example-resources"
-resource_group_location = "West US"
+resource_group_name = "terrateam-test-rg"
+resource_group_location = "Norway East"
